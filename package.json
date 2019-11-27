@@ -1,0 +1,23 @@
+{
+  "name": "events-api",
+  "version": "1.0.0",
+  "description": "Events API handles our events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlin-international-community-church/events-api.git"
+  },
+  "keywords": [
+    "serverless",
+    "go"
+  ],
+  "author": "berlin internation community church",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berlin-international-community-church/events-api/issues"
+  },
+  "homepage": "https://github.com/berlin-international-community-church/events-api#readme"
+}
